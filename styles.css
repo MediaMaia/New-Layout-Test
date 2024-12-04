@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #C0DFD6; /* Light green background */
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #F4A3ED; /* Pink header */
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    background-color: #fff;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.step {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #F4A3ED; /* Pink footer */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
